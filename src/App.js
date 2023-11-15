@@ -1,6 +1,5 @@
-
-import './App.css';
-import TargetTemperatureComponent from './components/TargetTemperatureComponent';
+import "./App.css";
+import TargetTemperatureComponent from "./components/TargetTemperatureComponent";
 function App() {
   return (
     <div className="App">
@@ -10,3 +9,6 @@ function App() {
 }
 
 export default App;
+
+
+
